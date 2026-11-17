@@ -4,7 +4,7 @@ A static, accessible GitHub Pages portfolio focusing on adult learning, instruct
 
 ## Featured work
 
-1. [TEALS Classroom Teacher Orientation](projects/teals-storyline.html) — authenticated 2023 Storyline project previews and a downloadable PDF case study.
+1. [TEALS Classroom Teacher Orientation](projects/teals-storyline.html) — high-resolution restorations from 2023 Storyline source previews, original photographs, and storyboard and a downloadable PDF case study.
 2. [AI Literacy](projects/ai-literacy.html) — eight-lesson course and public project source.
 3. [TEALS Volunteer Curriculum Training](projects/volunteer-training.html) — published 2021 Storyline package and 2022 course design specifications; distinguished by year.
 4. [Customer Experience Scenario](projects/customer-scenario.html) — original interactive branching and feedback demonstration, not Rivian training.
@@ -29,3 +29,7 @@ Open `index.html` locally or serve the folder with any static HTTP server. Keep 
 - [No School Viewer](https://aspiece.github.io/CSGames/No_School_Viewer.html)
 - [Space Invaders](https://aspiece.github.io/CSGames/space_invaders.html)
 - [Snake](https://aspiece.github.io/CSGames/snake.html)
+
+## Image fidelity (November 2026)
+
+The five TEALS training images used on this portfolio have been rebuilt in high resolution from original Storyline source previews, high-resolution course photographs, published course assets, and supporting storyboards. The four classroom teacher slides and the Volunteer Curriculum Training opening screen are *restored visual reconstructions*, not pixel-identical screenshots from a running course. All supplied text is based on the archived source; typography and spacing have been re-typeset for legibility. The original low-resolution exports remain preserved within the original `.story` or published ZIP source files.
