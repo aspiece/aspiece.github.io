@@ -13,6 +13,7 @@ A static, accessible GitHub Pages portfolio focusing on adult learning, instruct
 7. [Learning at Scale](projects/program-impact.html) — experience, self-reported metrics, and measurement boundaries.
 8. [Curriculum and Assessment](projects/curriculum-assessment.html) — completed classroom project packet and Python learning unit.
 9. [Professional Learning and Leadership](projects/professional-learning.html) — completed mentor training, feedback synthesis and conference presentations.
+10. [Mentoring Tomorrow’s Innovators](projects/mentoring.html) — two original public-reader presentations with six source-linked, clearly labeled visual summaries.
 
 The public selection focuses on completed deliverables. Other work in development is held back; Python Lab and CS50 Learning Companion are selected exceptions with transparent release status. The older video tour is no longer featured. Private Drive materials are summarized rather than republished. Financial literacy is excluded.
 
