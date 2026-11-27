@@ -5,12 +5,16 @@ A static, accessible GitHub Pages portfolio focusing on adult learning, instruct
 ## Featured work
 
 1. [TEALS Classroom Teacher Orientation](projects/teals-storyline.html) — high-resolution restorations from 2023 Storyline source previews, original photographs, and storyboard and a downloadable PDF case study.
-2. [AI Literacy](projects/ai-literacy.html) — eight-lesson course and public project source.
+2. [AI Literacy](projects/ai-literacy.html) — completed eight-lesson curriculum design; implementation in pilot.
 3. [TEALS Volunteer Curriculum Training](projects/volunteer-training.html) — published 2021 Storyline package and 2022 course design specifications; distinguished by year.
 4. [Customer Experience Scenario](projects/customer-scenario.html) — original interactive branching and feedback demonstration, not Rivian training.
-5. [Python Lab + CS50 Learning Companion](projects/learning-tools.html) — student-centered learning tools and code references.
+5. [Button Studio](projects/learning-tools.html) — documented validated and deployed standalone build.
 6. [AI Design Process](projects/ai-design-process.html) — human-reviewed, evidence-bounded workflow.
 7. [Learning at Scale](projects/program-impact.html) — experience, self-reported metrics, and measurement boundaries.
+8. [Curriculum and Assessment](projects/curriculum-assessment.html) — completed classroom project packet and Python learning unit.
+9. [Professional Learning and Leadership](projects/professional-learning.html) — completed mentor training, feedback synthesis and conference presentations.
+
+The public selection focuses on completed deliverables. Work in development or prerelease is held back; the older video tour is no longer featured. Private Drive materials are summarized rather than republished. Financial literacy is excluded.
 
 All pages are static, with no sign-in and no client analytics. The scenario stores choices only in page memory, not in cloud storage. There are no external libraries required for the simulation.
 
